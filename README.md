@@ -5,3 +5,4 @@
 In order to start I will be getting my "Responsive Web Design Certification" on freeCodeCamp to get started. If you look at some of my other projects, you will see that the process so far is basically the same. This reason is simply to kill two birds with one stone (in this case three) and get work done faster.
 
 ### Plan
+- Complete "Responsive Web design Certification" 
