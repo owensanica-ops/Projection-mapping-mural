@@ -11,3 +11,7 @@ In order to start I will be getting my "Responsive Web Design Certification" on 
 - Animate art piece
 - Transfer animation to projection
 - Set up projection in school hallway
+
+
+# Progress
+### So far going into the project I decided that I would start making my "Pitch Deck" for future investors and grants to hopefully get the money. After doing some research I them discovered that I actually don't need to code the art that I want to make but I just have to transfer it into the projection map software of my choosing. However since I want to create ASCII art ( a graphic design art using printable characters made from computers) I will need to use a shader programming and or a creative coding framework since I eventually want it to be interactive.
