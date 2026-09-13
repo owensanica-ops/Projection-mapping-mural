@@ -23,3 +23,9 @@ So far going into the project I decided that I would start making my "Pitch Deck
 
 <img width="1268" height="1800" alt="image" src="https://github.com/user-attachments/assets/6cace8ec-b980-420c-b379-dd021556cb1f" />
 This is the art that I created over the summer that I plan on converting into my projection map and turning into a ASCII.
+
+
+# 9/13/2026 Progress
+I decided that instead of coding each individual piece of art I am going to make an ASCII art generator. It's much more convenient especially since I'm making multiple pieces of art and I want to focus on building the protection overall. 
+
+I first decided to use Visual Studio Code in order to make it (since I already have it) and learn how to use programming c. Ive started to watch "Bro Codes" video on c programming (https://www.youtube.com/watch?v=xND0t1pr3KY&list=PLI_jhVyIFRck&index=25) and have started the process.
