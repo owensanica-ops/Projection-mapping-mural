@@ -29,3 +29,7 @@ This is the art that I created over the summer that I plan on converting into my
 I decided that instead of coding each individual piece of art I am going to make an ASCII art generator. It's much more convenient especially since I'm making multiple pieces of art and I want to focus on building the protection overall. 
 
 I first decided to use Visual Studio Code in order to make it (since I already have it) and learn how to use programming c. Ive started to watch "Bro Codes" video on c programming (https://www.youtube.com/watch?v=xND0t1pr3KY&list=PLI_jhVyIFRck&index=25) and have started the process.
+
+
+# Learning C 9/28/2026
+I decided that I was going to code the ASCII generator on C instead and some python to therefore code it. Luckily I did some research and found someone who created an ASCII art generator in C on Gihub and also found that they had a video. Link to Github ->https://github.com/rybkr/artscii    Link to youtube ->https://www.youtube.com/watch?v=SSQ9Wnw4noA
