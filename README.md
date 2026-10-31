@@ -45,7 +45,8 @@ The process in order to get the final result was lengthy but worth it in the end
 - Run the program -> .\show.exe images/ name of image.bmp
 <img width="409" height="697" alt="New sherub" src="https://github.com/user-attachments/assets/d37faffa-ef4e-4e47-8b6a-f3795e053164" />
 <img width="339" height="683" alt="New vieled" src="https://github.com/user-attachments/assets/002103f2-8f8b-4426-ab2e-1d0c3d1b53da" />
-<img width="684" height="708" alt="Screenshot 2026-10-31 165655" src="https://github.com/user-attachments/assets/0837eebb-ec53-4c56-8cc4-58f5987040d2" />
 <img width="439" height="712" alt="Screenshot 2026-10-31 170100" src="https://github.com/user-attachments/assets/bc859375-2534-4030-b564-ea13a83897dc" />
+<img width="684" height="708" alt="Screenshot 2026-10-31 165655" src="https://github.com/user-attachments/assets/7a85ae72-83e5-491c-8fa2-597ba171c605" />
+
 
 
