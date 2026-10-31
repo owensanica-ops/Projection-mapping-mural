@@ -42,3 +42,6 @@ The process in order to get the final result was lengthy but worth it in the end
 - Clone raspatory in download folder -> cd artscii
 - Run the compile command -> gcc -std=c11 -g -Wall -Wshadow -Wvla -O3 src/artscii.c src/basic_vec.c src/main.c -o show.exe
 - Run the program -> .\show.exe images/ name of image.bmp
+<img width="409" height="697" alt="New sherub" src="https://github.com/user-attachments/assets/d37faffa-ef4e-4e47-8b6a-f3795e053164" />
+<img width="339" height="683" alt="New vieled" src="https://github.com/user-attachments/assets/002103f2-8f8b-4426-ab2e-1d0c3d1b53da" />
+
