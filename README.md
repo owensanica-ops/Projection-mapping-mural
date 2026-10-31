@@ -1,5 +1,4 @@
-<img width="439" height="712" alt="Screenshot 2026-10-31 170100" src="https://github.com/user-attachments/assets/23d54ff9-8091-4503-b47e-03297a8b9c72" />
-<img width="439" height="712" alt="Screenshot 2026-10-31 170100" src="https://github.com/user-attachments/assets/28a0d061-0ade-4b36-979b-b73c61c55c36" />
+
 # Projection-mapping-mural
 ### With this project I will be making an animated projection mapping mural that will go into my school's hallway. The art, animation, coding, and even projection will be made by me only to pursue a passion and gain experience. 
 # Dashboard
