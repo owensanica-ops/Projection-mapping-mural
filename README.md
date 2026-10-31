@@ -30,8 +30,15 @@ I decided that instead of coding each individual piece of art I am going to make
 
 I first decided to use Visual Studio Code in order to make it (since I already have it) and learn how to use programming c. Ive started to watch "Bro Codes" video on c programming (https://www.youtube.com/watch?v=xND0t1pr3KY&list=PLI_jhVyIFRck&index=25) and have started the process.
 
-# The art 10/30/2026
-The process in order to get the final result was lengthy but worth it in the end. The final artworks are now generateable inside my vs code terminal.
-
 # Learning C 9/28/2026
 I decided that I was going to code the ASCII generator on C instead and some python to therefore code it. Luckily I did some research and found someone who created an ASCII art generator in C on Gihub and also found that they had a video. Link to Github ->https://github.com/rybkr/artscii    Link to youtube ->https://www.youtube.com/watch?v=SSQ9Wnw4noA
+
+# The art 10/30/2026
+The process in order to get the final result was lengthy but worth it in the end. The final artworks are now generatable inside my vs code terminal. 
+- I copied the URL raspatory into vs terminal
+- Download the zip and extract it
+- Compile the code
+- Created a folder -> git clone https://github.com/owensanica-ops/artscii.git
+- Clone raspatory in download folder -> cd artscii
+- Run the compile command -> gcc -std=c11 -g -Wall -Wshadow -Wvla -O3 src/artscii.c src/basic_vec.c src/main.c -o show.exe
+- Run the program -> .\show.exe images/ name of image.bmp
